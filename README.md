@@ -71,7 +71,7 @@ streamlit run app.py
 
 ## 🎥 Demo Video
 
-▶️ [Click here to watch the demo video](https://github.com/ItsFoD/churn-prediction-app/blob/main/streamlit-churn-vid.webm)
+📽️ [Click here to download and watch the demo video](https://github.com/ItsFoD/churn-prediction-app/raw/main/streamlit-churn-vid.webm)
 
 ---
 
