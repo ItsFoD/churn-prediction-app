@@ -71,9 +71,7 @@ streamlit run app.py
 
 ## 🎥 Demo Video
 
-<video controls autoplay muted loop width="100%">
-  <source src="https://github.com/ItsFoD/churn-prediction-app/blob/main/streamlit-churn-vid.webm" type="video/webm">
-</video>
+▶️ [Click here to watch the demo video](https://github.com/ItsFoD/churn-prediction-app/blob/main/streamlit-churn-vid.webm)
 
 ---
 
