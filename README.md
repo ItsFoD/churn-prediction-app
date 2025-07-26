@@ -73,7 +73,6 @@ streamlit run app.py
 
 <video controls autoplay muted loop width="100%">
   <source src="https://github.com/ItsFoD/churn-prediction-app/blob/main/streamlit-churn-vid.webm" type="video/webm">
-  Your browser does not support the video tag.
 </video>
 
 ---
