@@ -64,15 +64,24 @@ cd churn-prediction-app
 pip install -r requirements.txt
 
 # Launch the Streamlit app
-streamlit run streamlit_churn.py
+streamlit run app.py
 ```
+
+---
+
+## 🎥 Demo Video
+
+<video controls autoplay muted loop width="100%">
+  <source src="https://github.com/ItsFoD/churn-prediction-app/blob/main/streamlit-churn-vid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ## 📁 File Structure
 
 ```
-├── stremlit_churn.py       # Streamlit app script
+├── app.py                  # Streamlit app script
 ├── best_telco_model.pkl    # Trained ML model (Best KNN)
 ├── telco.html              # Notebook export (EDA + training)
 ├── requirements.txt        # Python dependencies
@@ -80,6 +89,7 @@ streamlit run streamlit_churn.py
 ```
 
 ---
+
 
 ## 📬 Contact
 
